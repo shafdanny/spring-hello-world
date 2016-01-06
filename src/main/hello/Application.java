@@ -1,4 +1,4 @@
-package hello;
+package main.hello;
 
 /**
  * Created by shafiq on 06/01/16.
